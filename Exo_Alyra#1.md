@@ -92,3 +92,6 @@ Enfin, c'est la rencontre avec des passionés dans un domaine passionant.
 ## Q.8
 Pour reprendre un article sur le site [Techniques de l'ingénieur](https://www.techniques-ingenieur.fr/actualite/articles/comment-donner-une-conscience-a-un-ordinateur-2392/), selon Christopher Koch, directeur scientifique du Allen Institute for Brain Science, lorsque les scientifiques découvriront le fondement de la conscience et construiront un ordinateur qui intéragirait de la même façon particulière q'un cerveau avec le monde alors il serait aussi doué de conscience.
 Il serait en compétition avec l'Homme pour certaines tâches mais l'Homme restera au dessus de la machine comme il est actuellement dans la chaîne alimentaire. Comme un parent qui formate son enfant à son image, l'ordinateur sera indépendant seulement si l'Homme disparaît ou devient un acteur en arrière plan. Si l'ordinateur devient conscient, c'est l'Homme qui en maximisant son enfant-robot, l'utilisera à ses propres fins. L'avènement de l'ordinateur conscient se fera naturellement que si l'Homme s'éteint comme Néandertal qui laissa sa place à Sapiens.
+
+## Q.9
+4382.72 Octets
